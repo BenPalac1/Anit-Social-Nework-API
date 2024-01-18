@@ -1,6 +1,7 @@
 const { Thought } = require('../models');
 
 const thoughtController = {
+  //GET all thoughts
   async getAllThoughts(req, res) {
     try {
       const thoughts = await Thought.find({});
