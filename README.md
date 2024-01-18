@@ -5,7 +5,7 @@ NoSQL Challenge: Social Network API
 
 This assignment I was challenged to build an API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list. It utilizes Express.js for routing, a MongoDB database.
 
-(I did not complete this assignment)
+(I did not finish this assignment, not vid showing functionality and no seeds)
 
 ## User Story
 
