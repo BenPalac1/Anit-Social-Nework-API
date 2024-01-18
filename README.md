@@ -47,6 +47,6 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
     - modules from class, 
         especially the mini project from module 18
     -Stack Overflow,
-    -My Wife 
+    -My Wife, Fullstack Web Dev
     -Google
     -ChatGPT
